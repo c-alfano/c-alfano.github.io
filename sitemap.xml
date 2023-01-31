@@ -2,15 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://c-alfano.github.io/</loc>
-    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+    <loc>https://c-alfano.github.io/publication/paper-3/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://c-alfano.github.io/publication/paper-2/</loc>
-    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+    <loc>https://c-alfano.github.io/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://c-alfano.github.io/publication/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://c-alfano.github.io/publication/paper-2/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
