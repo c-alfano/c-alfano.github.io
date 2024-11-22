@@ -5,12 +5,28 @@
     <link>https://c-alfano.github.io/</link>
       <atom:link href="https://c-alfano.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlo Alfano</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://c-alfano.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Carlo Alfano</title>
       <link>https://c-alfano.github.io/</link>
     </image>
+    
+    <item>
+      <title>Learning mirror maps in policy mirror descent</title>
+      <link>https://c-alfano.github.io/publication/paper-4/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://c-alfano.github.io/publication/paper-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning mirror maps in policy mirror descent</title>
+      <link>https://c-alfano.github.io/publication/paper-5/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://c-alfano.github.io/publication/paper-5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Novel Framework for Policy Mirror Descent with General Parametrization and Linear Convergence</title>
