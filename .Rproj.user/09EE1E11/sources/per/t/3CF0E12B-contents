@@ -1,0 +1,48 @@
+---
+bio: My research interests include reinforcement learning, optimization and learning theory.
+education:
+  courses:
+  - course: DPhil in Statistics
+    institution: University of Oxford
+    year: 2020-present
+  - course: MSc in Statistical Sciences
+    institution: University of Oxford
+    year: 2019-2020
+  - course: BSc in Statistics, Economics and Finance
+    institution: Sapienza University of Rome
+    year: 2016-2019
+email: "c97.alfano-at-gmail.com"
+first_name: Carlo
+highlight_name: true
+interests:
+- Theory of Reinforcement Learning
+- Optimization
+last_name: Alfano
+organizations:
+- name: University of Oxford
+  url: https://www.ox.ac.uk/
+role: DPhil Student
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:carlo.alfano@linacre.ox.ac.uk
+- display:
+    header: true
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=9wfyGroAAAAJ&hl=en&oi=ao
+- icon: github
+  icon_pack: fab
+  link: https://github.com/c-alfano
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/carlo-alfano-7a4378171/
+superuser: true
+title: Carlo Alfano
+---
+
+I am a 3rd year PhD student in the {{< staticref "https://raw.githubusercontent.com/c-alfano/c-alfano.github.io/main/uploads/CV.pdf" "newtab" >}}Department of Statistics{{< /staticref >}} at the University of Oxford, under the supervision of {{< staticref "https://www.stats.ox.ac.uk/~rebeschi/" "newtab" >}}Patrick Rebeschini{{< /staticref >}} and {{< staticref "https://www.stats.ox.ac.uk/~deligian/" "newtab" >}}George Deligiannidis.{{< /staticref >}} I am funded by EPSRC.
+
+My research interests include reinforcement learning, optimization and learning theory. In particular, I focus on building and analysing reinforcement learning algorithms using standard optimization tools, such as natural gradient descent and mirror descent.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://raw.githubusercontent.com/c-alfano/c-alfano.github.io/main/uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}}
