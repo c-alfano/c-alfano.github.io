@@ -5,7 +5,7 @@
     <link>https://c-alfano.github.io/</link>
       <atom:link href="https://c-alfano.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlo Alfano</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://c-alfano.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Carlo Alfano</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Learning mirror maps in policy mirror descent</title>
-      <link>https://c-alfano.github.io/publication/paper-4/</link>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://c-alfano.github.io/publication/paper-4/</guid>
+      <title>Meta-Learning Objectives for Preference Optimization</title>
+      <link>https://c-alfano.github.io/publication/paper-5/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://c-alfano.github.io/publication/paper-5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Meta-Learning Objectives for Preference Optimization</title>
-      <link>https://c-alfano.github.io/publication/paper-5/</link>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://c-alfano.github.io/publication/paper-5/</guid>
+      <title>Learning mirror maps in policy mirror descent</title>
+      <link>https://c-alfano.github.io/publication/paper-4/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://c-alfano.github.io/publication/paper-4/</guid>
       <description></description>
     </item>
     
